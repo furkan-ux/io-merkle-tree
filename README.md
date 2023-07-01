@@ -1,8 +1,7 @@
 # Confirmed Merkle Tree (CMT)
 
-Append-Only Merkle tree with O(1) append gas cost.
+Append-Only Merkle tree with O(1) gas cost of append. By https://github.com/0xall
 
-> ⚠️ Please DO NOT use this code in production level yet. This code is not audited.
 
 # Abstraction
 
